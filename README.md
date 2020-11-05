@@ -26,3 +26,6 @@ t = [1, 1, 1, 1, 1, 1, 1, 1]
 `rotate3(verts,axis,axis,axis,alpha)` method rotates your 3d object around 3 axis.
 ![`rotate3(vertices,x,z,y,240)` cube rotated 240 degrees around all axes.](https://github.com/BarisDev/Geometric-Operations-to-3D-Objects/blob/main/cube-3-axis.png?raw=true)
 
+<p align="center">
+  <img src="https://github.com/BarisDev/Geometric-Operations-to-3D-Objects/blob/main/cube-3-axis.png?raw=true" />
+</p>
